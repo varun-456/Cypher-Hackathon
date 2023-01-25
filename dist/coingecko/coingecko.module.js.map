@@ -1,0 +1,1 @@
+{"version":3,"file":"coingecko.module.js","sourceRoot":"","sources":["../../src/coingecko/coingecko.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAwC;AACxC,iEAAwD;AACxD,2DAAkD;AAM3C,IAAM,eAAe,GAArB,MAAM,eAAe;CAAG,CAAA;AAAlB,eAAe;IAJ3B,IAAA,eAAM,EAAC;QACJ,WAAW,EAAE,CAAC,qCAAc,CAAC;QAC7B,SAAS,EAAE,CAAC,+BAAW,CAAC;KAC3B,CAAC;GACW,eAAe,CAAG;AAAlB,0CAAe"}
